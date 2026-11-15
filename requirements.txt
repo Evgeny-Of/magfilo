@@ -1,0 +1,8 @@
+ultralytics
+segmentation-models-pytorch
+pycocotools
+torch
+opencv-python
+pandas
+tqdm
+kagglehub
